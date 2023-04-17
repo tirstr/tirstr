@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tirstr
-- 👀 I’m interested in Computational Communication Research, HCI/HAII, ML/DL, NLP, Python, R, Java, and SQL 
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on CCS/Computational Communication Research, Computational Linguistics, and ML/AI projects
+- 👀 I’m interested in HCI/HMI, Computer Science, ML/DL/AI, Python, Java, R, and SQL 
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on HCI/HMI and CComputational Social/Communication Research, and ML/AI projects
 - 📫 How to reach me: 
 
 <!---
